@@ -2,7 +2,7 @@
 ## Problem statement
 The problem statement chosen for this project is to predict fraudulent credit card transactions with the help of machine learning models.
 
-Read more about it on my [Blog:](https://medium.com/@ktarun1681/can-machine-learning-help-in-detecting-the-credit-card-frauds-7c5ee14645d5)
+Read more about it on my [BlogPost:](https://medium.com/@ktarun1681/can-machine-learning-help-in-detecting-the-credit-card-frauds-7c5ee14645d5)
 
 In this project, we will analyse customer-level data which has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group.
 
